@@ -1,1 +1,2 @@
 # PythonPractice
+Python練習とGitHubの練習を兼ねる
